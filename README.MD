@@ -6,9 +6,6 @@
 
 O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história.
 
-🔗 [Acesse o projeto](https://editor.p5js.org/juliecamillo/full/bq9ex-QGu)
-
-
 ## Sumário do Projeto
 
 * [Introdução](#introducao)
@@ -18,6 +15,8 @@ O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos pri
 
 # Introdução
 O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história e é a partir de sua criação que, na Alura, exercitamos nossa lógica de programação. 
+
+🔗 [Acesse o projeto](https://editor.p5js.org/juliecamillo/full/bq9ex-QGu)
 
 
 # Como funciona
