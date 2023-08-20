@@ -16,8 +16,6 @@ O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos pri
     * [Multiplayer](#multiplayer)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-<br>
-
 # Introdução
 O Pong é um jogo eletrônico com a temática de tênis de mesa e, é um dos primeiros jogos eletrônicos lucrativos da história e é a partir de sua criação que, na Alura, exercitamos nossa lógica de programação. 
 
